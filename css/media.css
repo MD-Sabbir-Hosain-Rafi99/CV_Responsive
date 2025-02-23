@@ -14,9 +14,9 @@
 @media (min-width: 576px) and (max-width: 767.98px) {}
 
 /* Extra small devices */
-@media (min-width: 420px) and (max-width: 575.98px) {
+@media (min-width: 320px) and (max-width: 575.98px) {
     .cvImg img {
-        height: 140px;
+        height: 102px;
       }
       .cvTitle h1 {
         font-size: 16px;
